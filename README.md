@@ -1,3 +1,15 @@
+Beyond here there be Dragons/Kraken Signage.
+======
+
+
+kOS Dev Test 
+======
+Is derived from kOS and intended for personal use. If it ever goes beyond that it would be intended for mod developer use.
+Its use case is to run repeatable test cases, and make accurate fast observations for Devs in hard to observe edge cases. 
+It is not intended nor ever should any feature added here be directly back ported diretcly into kOS.
+If something happened to become perceived generally useful reimplenting it properly in kOS is the only recommended option. I intend to cut corners here. 
+Rewriting, not code review is what would remove them.
+
 kOS
 ======
 
